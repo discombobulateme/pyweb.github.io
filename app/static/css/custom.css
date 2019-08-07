@@ -1,0 +1,24 @@
+body {
+	font-family: "Lato";
+}
+
+h1{
+	color: #FF3366;
+	font-family: "FiraSans";
+}
+
+h2{
+	font-family: "Lato";
+	color: darkgrey;
+}
+
+heading{
+	background-color: #FF3366;
+	font-family: "FiraSans";
+	color: white;
+}
+
+subheading{
+	font-family: "Lato";
+	color: darkgrey;
+}
